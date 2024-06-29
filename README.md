@@ -2,7 +2,7 @@
 Welcome to Grahak Sakshi, an efficient approach that integrates ML and IoT to advance emotion detection. Using CNNs, it detects real-time facial expressions (Happy, Sad, Neutral) trained on labeled datasets. Leveraging IoT, it enhances real-time capabilities by seamlessly integrating with IoT devices and sensors, optimizing data collection. This synergy not only boosts accuracy but also opens new possibilities for interactive, context-aware applications and ethical AI systems.
  
 
-<h1 align="center" id="title"> Synergistic ML and IoT Hybridisation for Advanced Emotion Detection🗃️💹</h1>
+<h1 align="center" id="title"> Synergistic ML and IoT Hybridisation for Advanced Emotion Detection 😄😐😔 🗃️</h1>
 
 <p align="center"><img src="https://socialify.git.ci/harshepandeyofficial/GrahakSakshi-Advanced-Emotion-Detection-Using-ML-and-IoT/image?language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;theme=Dark" alt="project-image"></p>
 
