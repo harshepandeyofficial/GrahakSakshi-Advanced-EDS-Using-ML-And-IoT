@@ -16,7 +16,7 @@ Welcome to Grahak Sakshi, an efficient approach that integrates ML and IoT to ad
 
   
   
-<h2>🧐 Features</h2>
+<h2>📚 Features</h2>
 
 Here're some of the project's best features:
 
