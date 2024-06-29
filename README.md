@@ -6,7 +6,7 @@ Welcome to Grahak Sakshi, an efficient approach that integrates ML and IoT to ad
 
 <p align="center"><img src="https://socialify.git.ci/harshepandeyofficial/GrahakSakshi-Advanced-Emotion-Detection-Using-ML-and-IoT/image?language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;theme=Dark" alt="project-image"></p>
 <p align="center"><img src="https://emotionlogic.ai/wp-content/uploads/2023/08/Firefly-Generate-illustrative-visual-representations-depicting-methods-of-emotion-detection-using-vo-e1691590316220.jpg"></p>
-<p align="center"><img src="https://emotionlogic.ai/wp-content/uploads/2023/08/Firefly-Generate-illustrative-visual-representations-depicting-methods-of-emotion-detection-using-vo-e1691590316220.jpg"></p>
+<p align="center"><img src="https://github.com/harshepandeyofficial/GrahakSakshi-Advanced-EDS-Using-ML-And-IoT/blob/main/Proposed%20EDS.png?raw=true"></p>
 
 
 
