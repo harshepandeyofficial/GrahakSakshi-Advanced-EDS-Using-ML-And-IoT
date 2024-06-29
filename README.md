@@ -5,7 +5,7 @@ Welcome to Grahak Sakshi, an efficient approach that integrates ML and IoT to ad
 <h1 align="center" id="title"> Synergistic Hybridisation Of  ML and IoT For Advanced Emotion Detection 😄😐😔 🗂️</h1>
 
 <p align="center"><img src="https://socialify.git.ci/harshepandeyofficial/GrahakSakshi-Advanced-Emotion-Detection-Using-ML-and-IoT/image?language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;theme=Dark" alt="project-image"></p>
-<p align="center"><img src="<p align="center"><img src="https://socialify.git.ci/harshepandeyofficial/GrahakSakshi-Advanced-Emotion-Detection-Using-ML-and-IoT/image?language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;theme=Dark" alt="project-image"></p>
+<p align="center"><img src=" https://img.freepik.com/free-vector/emoji-satisfaction-meter-small_78370-2021.jpg?size=626&ext=jpg&ga=GA1.1.2116175301.1717718400&semt=ais_user"></p>
 
 
 
