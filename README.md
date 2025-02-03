@@ -11,6 +11,7 @@ Welcome to Grahak Sakshi, an efficient approach that integrates ML and IoT to ad
 
 
 
+
 <p id="description">An innovative project at the forefront of advancing emotion detection systems through synergistic ML and IoT integration. Utilizing state-of-the-art Convolutional Neural Networks (CNNs), Grahak Sakshi enables real-time recognition of facial expressions—Happy, Sad, and Neutral—trained on meticulously labeled datasets. By seamlessly integrating with IoT devices and sensors, it enhances real-time capabilities, optimizing data collection for precise emotional insights. This holistic approach not only boosts accuracy but also fosters the development of interactive, context-aware applications and ethical AI systems, marking a significant advancement in emotion detection technology." 🗃️💹</p>
 
   
